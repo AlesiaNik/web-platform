@@ -1,0 +1,11 @@
+{
+"initial.key": {
+        "translation": "Initial key added",
+        "notes": ""
+    },
+    "Second.key": {
+        "translation": "Another key added",
+        "notes": "notes added"
+
+    }
+}
