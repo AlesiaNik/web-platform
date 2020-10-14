@@ -4,7 +4,13 @@
         "notes": ""
     },
     "Second.key": {
-        "translation": "Another key added",
+        "translation": "Another key modified",
+        "notes": "notes added"
+
+    }
+    
+        "third.key": {
+        "translation": "Another key added again",
         "notes": "notes added"
 
     }
